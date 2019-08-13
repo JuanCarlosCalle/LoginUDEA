@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649380076526",
+    "firebase_url": "https://loginudea-c19be.firebaseio.com",
+    "project_id": "loginudea-c19be",
+    "storage_bucket": "loginudea-c19be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649380076526:android:80f94e88b605fb4d",
+        "android_client_info": {
+          "package_name": "com.example.loginudea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649380076526-jui7mrgvk8jle03st5ttghv46vmv4jfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginudea",
+            "certificate_hash": "d55910ddb3533edd22dfe755172ed476f33278da"
+          }
+        },
+        {
+          "client_id": "649380076526-7mck7nr3pqonb150hsgf364e25cmgafi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTTa56Cs2j1-Q_K0XHQ6rDbRKPLVBxRCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649380076526-7mck7nr3pqonb150hsgf364e25cmgafi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
